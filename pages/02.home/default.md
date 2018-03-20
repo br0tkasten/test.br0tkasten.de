@@ -1,9 +1,9 @@
 ---
 title: Home
-child_type: default
 process:
-    markdown: false
-    twig: false
+    markdown: true
+    twig: true
+child_type: default
 robots:
     noindex: false
     nofollow: false
